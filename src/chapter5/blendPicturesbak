@@ -1,0 +1,43 @@
+def blendPictures():
+    barb = makePicture(getMediaPath("\\liam and birthday 019.JPG"))
+    katie = makePicture(getMediaPath("\\liam and birthday 019.JPG"))
+    canvas = makePicture(getMediaPath("\\640x480.jpg"))
+
+    # Copy 1st 150 columns of Barb
+    sourceX = 0
+    for targetX in range(0, 150):
+        sourceY = 0
+        for targetY in range(0, getHeight(barb)):
+            color = getColor(getPixel(barb, sourceX, sourceY))
+            setColor(getPixel(canvas, targetX, targetY), color)
+            sourceY = sourceY + 1
+        sourceX = sourceX + 1
+
+    #Grab the rest of Barb at 50% Barb and 50% Katie
+    overlap = getWidth(barb) - 150
+    sourceX = 0
+    for targetX in range(150, getWidth(barb)):
+        sourceY = 0
+        for targetY in range(0, getHeight(katie)):
+            bPixel = getPixel(barb, sourceX + 150, sourceY)
+            kPixel = getPixel(katie, sourceX, sourceY)
+            newRed = 0.5* getRed(bPixel) + 0.5*getRed(kPixel)
+            newGreen = 0.5* getGreen(bPixel) + 0.5*getGreen(kPixel)
+            newBlue = 0.5* getBlue(bPixel) + 0.5*getBlue(kPixel)
+            color = makeColor(newRed, newGreen, newBlue)
+            setColor(getPixel(canvas, targetX, targetY), color)
+            sourceY = sourceY + 1
+        sourceX = sourceX + 1
+
+    #Last columns of Katie
+    sourceX = overlap
+    for targetX in range(150+overlap, 150 + getWidth(katie)):
+        sourceY = 0
+        for targetY in range(0, getHeight(katie)):
+            color = getColor(getPixel(katie, sourceX, sourceY))
+            setColor(getPixel(canvas, targetX, targetY), color)
+            sourceY = sourceY + 1
+        sourceX = sourceX + 1
+
+    show(canvas)
+    return canvas

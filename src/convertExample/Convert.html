@@ -1,0 +1,50 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+
+<head>
+    <title>
+        A Very Simple Dynamic Web Page
+    </title>
+
+    <script>
+        function blankFahrenheit(){
+            document.demo.fahrenheit.value="";
+        }
+
+        function blankCelsius(){
+            document.demo.celsius.value="";
+        }
+    </script>
+
+    <style>
+        body, html {margin:0; padding:0; color:#000; background:#a7a09a;}
+
+        h1 {text-align:center; margin:0px}
+        .label {font-size:x-large; font-weight:bold}
+        .input {float:right}
+        #wrap {margin:0 auto; margin-top:20px; width:750px}
+        #header {border-bottom:solid; padding: 1px; margin:0; color:black; background:#82c8d5}
+        #main {padding: 10px; margin:0; color:black; background:#56d467}
+        .border {border-style:solid}
+    </style>
+</head>
+
+<body>
+    <div id="wrap">
+        <div id="header">
+            <h1> Temperature Converter </h1>
+        </div>
+
+        <div id="main">
+            <form name="demo" action="http://localhost:8000/cgi-bin/Convert.py">
+                <div style="width:330px">
+                    <span class="label">Celsius:</span>
+                    <input class="input" type="text" size="26" name="celsius" onchange="blankFahrenheit()" value="%celsius%" /> <br />
+                    <span class="label">Fahrenheit:</span>
+                    <input class="input" type="text" size="26" name="fahrenheit" onchange="blankCelsius()" value="%fahrenheit%" /> <br />
+                    <br />
+                    <input type="submit" name="submitButton" value="Submit" />
+                </div>
+            </form>
+        </div>
+    </div>
+</body>
