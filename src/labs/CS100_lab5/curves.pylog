@@ -1,0 +1,768 @@
+<file_created time="Thu Feb 10 10:15:49 MST 2011">
+<menu_button time="Thu Feb 10 10:16:44 MST 2011">Save Program</menu_button>
+<file_saved time="Thu Feb 10 10:17:18 MST 2011">C:\Users\lehi\Desktop\CS100_lab5\curves.py</file_saved>
+</file_created>
+<menu_button time="Thu Feb 10 10:21:56 MST 2011">Save Program</menu_button>
+<file_saved time="Thu Feb 10 10:21:56 MST 2011">C:\Users\lehi\Desktop\CS100_lab5\curves.py</file_saved>
+</file_created>
+<menu_button time="Thu Feb 10 10:21:58 MST 2011">Load Program</menu_button>
+<command_run time="Thu Feb 10 10:22:02 MST 2011">2></command_run>
+<command_run time="Thu Feb 10 10:22:10 MST 2011">clip(2)></command_run>
+<menu_button time="Thu Feb 10 10:22:35 MST 2011">Save Program</menu_button>
+<file_saved time="Thu Feb 10 10:22:35 MST 2011">C:\Users\lehi\Desktop\CS100_lab5\curves.py</file_saved>
+<file_opened time="Thu Feb 17 08:48:00 MST 2011">C:\Users\lehi\Desktop\CS100_lab5\curves.py</file_opened>
+<menu_button time="Thu Feb 17 08:48:44 MST 2011">Save Program</menu_button>
+<file_saved time="Thu Feb 17 08:48:44 MST 2011">C:\Users\lehi\Desktop\CS100_lab5\curves.py</file_saved>
+</file_created>
+<menu_button time="Thu Feb 17 08:48:49 MST 2011">Load Program</menu_button>
+<menu_button time="Thu Feb 17 08:49:30 MST 2011">Save Program</menu_button>
+<file_saved time="Thu Feb 17 08:49:30 MST 2011">C:\Users\lehi\Desktop\CS100_lab5\curves.py</file_saved>
+</file_created>
+<menu_button time="Thu Feb 17 08:49:40 MST 2011">Save Program</menu_button>
+<file_saved time="Thu Feb 17 08:49:40 MST 2011">C:\Users\lehi\Desktop\CS100_lab5\curves.py</file_saved>
+</file_created>
+<menu_button time="Thu Feb 17 08:49:41 MST 2011">Load Program</menu_button>
+<menu_button time="Thu Feb 17 08:49:47 MST 2011">Save Program</menu_button>
+<file_saved time="Thu Feb 17 08:49:47 MST 2011">C:\Users\lehi\Desktop\CS100_lab5\curves.py</file_saved>
+</file_created>
+<menu_button time="Thu Feb 17 08:49:49 MST 2011">Load Program</menu_button>
+<command_run time="Thu Feb 17 08:50:31 MST 2011">adjustColorValue(3, 5, 1)></command_run>
+<menu_button time="Thu Feb 17 08:50:57 MST 2011">Save Program</menu_button>
+<file_saved time="Thu Feb 17 08:50:57 MST 2011">C:\Users\lehi\Desktop\CS100_lab5\curves.py</file_saved>
+</file_created>
+<menu_button time="Thu Feb 17 08:51:12 MST 2011">Save Program</menu_button>
+<file_saved time="Thu Feb 17 08:51:12 MST 2011">C:\Users\lehi\Desktop\CS100_lab5\curves.py</file_saved>
+</file_created>
+<menu_button time="Thu Feb 17 08:53:24 MST 2011">Save Program</menu_button>
+<file_saved time="Thu Feb 17 08:53:24 MST 2011">C:\Users\lehi\Desktop\CS100_lab5\curves.py</file_saved>
+</file_created>
+<menu_button time="Thu Feb 17 08:54:25 MST 2011">Save Program</menu_button>
+<file_saved time="Thu Feb 17 08:54:25 MST 2011">C:\Users\lehi\Desktop\CS100_lab5\curves.py</file_saved>
+</file_created>
+<menu_button time="Thu Feb 17 08:54:27 MST 2011">Save Program</menu_button>
+<file_saved time="Thu Feb 17 08:54:27 MST 2011">C:\Users\lehi\Desktop\CS100_lab5\curves.py</file_saved>
+</file_created>
+<menu_button time="Thu Feb 17 08:55:01 MST 2011">makeColor</menu_button>
+<menu_button time="Thu Feb 17 08:55:41 MST 2011">setColorWrapAround</menu_button>
+<menu_button time="Thu Feb 17 08:55:44 MST 2011">Undo</menu_button>
+<menu_button time="Thu Feb 17 08:55:45 MST 2011">Undo</menu_button>
+<menu_button time="Thu Feb 17 08:55:46 MST 2011">Undo</menu_button>
+<menu_button time="Thu Feb 17 08:55:47 MST 2011">Undo</menu_button>
+<menu_button time="Thu Feb 17 08:55:47 MST 2011">Undo</menu_button>
+<menu_button time="Thu Feb 17 08:55:48 MST 2011">Undo</menu_button>
+<menu_button time="Thu Feb 17 08:55:50 MST 2011">Redo</menu_button>
+<menu_button time="Thu Feb 17 08:55:54 MST 2011">Undo</menu_button>
+<menu_button time="Thu Feb 17 08:55:54 MST 2011">Undo</menu_button>
+<menu_button time="Thu Feb 17 08:55:55 MST 2011">Undo</menu_button>
+<menu_button time="Thu Feb 17 08:55:56 MST 2011">Undo</menu_button>
+<menu_button time="Thu Feb 17 08:55:56 MST 2011">Undo</menu_button>
+<menu_button time="Thu Feb 17 08:56:51 MST 2011">Save Program</menu_button>
+<file_saved time="Thu Feb 17 08:56:51 MST 2011">C:\Users\lehi\Desktop\CS100_lab5\curves.py</file_saved>
+</file_created>
+<menu_button time="Thu Feb 17 08:57:09 MST 2011">Load Program</menu_button>
+<command_run time="Thu Feb 17 08:57:20 MST 2011">adjustPixel(2,4,7)></command_run>
+<menu_button time="Thu Feb 17 08:58:05 MST 2011">Load Program</menu_button>
+<menu_button time="Thu Feb 17 08:58:38 MST 2011">pickAFile</menu_button>
+<command_run time="Thu Feb 17 08:58:41 MST 2011">p1 = pickAFile()></command_run>
+<command_run time="Thu Feb 17 08:58:55 MST 2011">show(p1)></command_run>
+<menu_button time="Thu Feb 17 08:59:12 MST 2011">makePicture</menu_button>
+<command_run time="Thu Feb 17 08:59:15 MST 2011">p2 = makePicture(p1)></command_run>
+<command_run time="Thu Feb 17 08:59:19 MST 2011">show(p2)></command_run>
+<menu_button time="Thu Feb 17 08:59:36 MST 2011">getPixel</menu_button>
+<command_run time="Thu Feb 17 08:59:40 MST 2011">p3 = getPixel(p2)></command_run>
+<command_run time="Thu Feb 17 08:59:53 MST 2011">p3 = getPixel(p2, 3, 6)></command_run>
+<command_run time="Thu Feb 17 09:00:15 MST 2011">adjustPixel(p3, 2, 3)></command_run>
+<command_run time="Thu Feb 17 09:00:25 MST 2011">show(p3)></command_run>
+<command_run time="Thu Feb 17 09:00:30 MST 2011">show(p2)></command_run>
+<menu_button time="Thu Feb 17 09:01:07 MST 2011">Save Program</menu_button>
+<file_saved time="Thu Feb 17 09:01:07 MST 2011">C:\Users\lehi\Desktop\CS100_lab5\curves.py</file_saved>
+</file_created>
+<menu_button time="Thu Feb 17 09:01:13 MST 2011">Save Program</menu_button>
+<file_saved time="Thu Feb 17 09:01:13 MST 2011">C:\Users\lehi\Desktop\CS100_lab5\curves.py</file_saved>
+</file_created>
+<command_run time="Thu Feb 17 09:01:16 MST 2011">p3></command_run>
+<menu_button time="Thu Feb 17 09:01:25 MST 2011">Load Program</menu_button>
+<command_run time="Thu Feb 17 09:01:30 MST 2011">p1 = pickAFile()></command_run>
+<command_run time="Thu Feb 17 09:01:38 MST 2011">p2 = makePicture(p1)></command_run>
+<command_run time="Thu Feb 17 09:01:46 MST 2011">p3 = getPixel(p2, 3, 6)></command_run>
+<command_run time="Thu Feb 17 09:01:58 MST 2011">p3></command_run>
+<command_run time="Thu Feb 17 09:02:05 MST 2011">adjustPixel(p3, 2, 3)></command_run>
+<command_run time="Thu Feb 17 09:02:08 MST 2011">p3></command_run>
+<menu_button time="Thu Feb 17 09:04:06 MST 2011">Save Program</menu_button>
+<file_saved time="Thu Feb 17 09:04:06 MST 2011">C:\Users\lehi\Desktop\CS100_lab5\curves.py</file_saved>
+</file_created>
+<menu_button time="Thu Feb 17 09:07:39 MST 2011">Save Program</menu_button>
+<file_saved time="Thu Feb 17 09:07:39 MST 2011">C:\Users\lehi\Desktop\CS100_lab5\curves.py</file_saved>
+</file_created>
+<menu_button time="Thu Feb 17 09:08:38 MST 2011">Save Program</menu_button>
+<file_saved time="Thu Feb 17 09:08:38 MST 2011">C:\Users\lehi\Desktop\CS100_lab5\curves.py</file_saved>
+</file_created>
+<menu_button time="Thu Feb 17 09:08:43 MST 2011">Load Program</menu_button>
+<menu_button time="Thu Feb 17 09:08:59 MST 2011">Save Program</menu_button>
+<file_saved time="Thu Feb 17 09:08:59 MST 2011">C:\Users\lehi\Desktop\CS100_lab5\curves.py</file_saved>
+</file_created>
+<menu_button time="Thu Feb 17 09:09:01 MST 2011">Load Program</menu_button>
+<menu_button time="Thu Feb 17 09:09:22 MST 2011">pickAFile</menu_button>
+<command_run time="Thu Feb 17 09:09:25 MST 2011">p1 = pickAFile()></command_run>
+<menu_button time="Thu Feb 17 09:09:46 MST 2011">makePicture</menu_button>
+<command_run time="Thu Feb 17 09:09:50 MST 2011">p2 = makePicture(p1)></command_run>
+<command_run time="Thu Feb 17 09:10:01 MST 2011">p2></command_run>
+<command_run time="Thu Feb 17 09:10:12 MST 2011">show (p2)></command_run>
+<command_run time="Thu Feb 17 09:10:37 MST 2011">transform(p2, 2, 4, 7, 1)></command_run>
+<command_run time="Thu Feb 17 09:11:45 MST 2011">show (p2)></command_run>
+<command_run time="Thu Feb 17 09:15:17 MST 2011">adjustColorValue(2, 4, 6)></command_run>
+<menu_button time="Thu Feb 17 09:17:54 MST 2011">Save Program</menu_button>
+<file_saved time="Thu Feb 17 09:17:54 MST 2011">C:\Users\lehi\Desktop\CS100_lab5\curves.py</file_saved>
+</file_created>
+<menu_button time="Thu Feb 17 09:17:59 MST 2011">Save Program</menu_button>
+<file_saved time="Thu Feb 17 09:17:59 MST 2011">C:\Users\lehi\Desktop\CS100_lab5\curves.py</file_saved>
+</file_created>
+<menu_button time="Thu Feb 17 09:18:27 MST 2011">Save Program</menu_button>
+<file_saved time="Thu Feb 17 09:18:27 MST 2011">C:\Users\lehi\Desktop\CS100_lab5\curves.py</file_saved>
+</file_created>
+<menu_button time="Thu Feb 17 09:19:35 MST 2011">Save Program</menu_button>
+<file_saved time="Thu Feb 17 09:19:35 MST 2011">C:\Users\lehi\Desktop\CS100_lab5\curves.py</file_saved>
+</file_created>
+<menu_button time="Thu Feb 17 09:19:43 MST 2011">Save Program</menu_button>
+<file_saved time="Thu Feb 17 09:19:43 MST 2011">C:\Users\lehi\Desktop\CS100_lab5\curves.py</file_saved>
+</file_created>
+<menu_button time="Thu Feb 17 09:21:40 MST 2011">Save Program</menu_button>
+<file_saved time="Thu Feb 17 09:21:40 MST 2011">C:\Users\lehi\Desktop\CS100_lab5\curves.py</file_saved>
+</file_created>
+<menu_button time="Thu Feb 17 09:21:54 MST 2011">Save Program</menu_button>
+<file_saved time="Thu Feb 17 09:21:54 MST 2011">C:\Users\lehi\Desktop\CS100_lab5\curves.py</file_saved>
+</file_created>
+<menu_button time="Thu Feb 17 09:22:31 MST 2011">Save Program</menu_button>
+<file_saved time="Thu Feb 17 09:22:31 MST 2011">C:\Users\lehi\Desktop\CS100_lab5\curves.py</file_saved>
+</file_created>
+<menu_button time="Thu Feb 17 09:22:33 MST 2011">Load Program</menu_button>
+<menu_button time="Thu Feb 17 09:22:45 MST 2011">pickAFile</menu_button>
+<command_run time="Thu Feb 17 09:22:46 MST 2011">pi = pickAFile()></command_run>
+<menu_button time="Thu Feb 17 09:23:09 MST 2011">makePicture</menu_button>
+<command_run time="Thu Feb 17 09:23:15 MST 2011">p2 = makePicture(pi)></command_run>
+<command_run time="Thu Feb 17 09:23:52 MST 2011">threshold(p2, 23)></command_run>
+<command_run time="Thu Feb 17 09:24:20 MST 2011">show (p2)></command_run>
+<menu_button time="Thu Feb 17 09:26:51 MST 2011">Save Program</menu_button>
+<file_saved time="Thu Feb 17 09:26:51 MST 2011">C:\Users\lehi\Desktop\CS100_lab5\curves.py</file_saved>
+</file_created>
+<menu_button time="Thu Feb 17 09:27:18 MST 2011">Save Program</menu_button>
+<file_saved time="Thu Feb 17 09:27:18 MST 2011">C:\Users\lehi\Desktop\CS100_lab5\curves.py</file_saved>
+</file_created>
+<menu_button time="Thu Feb 17 09:28:16 MST 2011">Save Program</menu_button>
+<file_saved time="Thu Feb 17 09:28:16 MST 2011">C:\Users\lehi\Desktop\CS100_lab5\curves.py</file_saved>
+</file_created>
+<menu_button time="Thu Feb 17 09:28:35 MST 2011">Save Program</menu_button>
+<file_saved time="Thu Feb 17 09:28:35 MST 2011">C:\Users\lehi\Desktop\CS100_lab5\curves.py</file_saved>
+</file_created>
+<menu_button time="Thu Feb 17 09:28:36 MST 2011">Load Program</menu_button>
+<menu_button time="Thu Feb 17 09:28:49 MST 2011">pickAFile</menu_button>
+<command_run time="Thu Feb 17 09:28:50 MST 2011">p1 = pickAFile()></command_run>
+<menu_button time="Thu Feb 17 09:29:07 MST 2011">makePicture</menu_button>
+<command_run time="Thu Feb 17 09:29:10 MST 2011">p2 = makePicture(p1)></command_run>
+<command_run time="Thu Feb 17 09:29:45 MST 2011">processPicture(picture, 4,5,4,7)></command_run>
+<command_run time="Thu Feb 17 09:30:12 MST 2011">processPicture(p2, 4,5,4,7)></command_run>
+<command_run time="Thu Feb 17 09:30:40 MST 2011">show (p2)></command_run>
+<menu_button time="Thu Feb 17 09:31:05 MST 2011">makePicture</menu_button>
+<command_run time="Thu Feb 17 09:31:09 MST 2011"> p3 = makePicture(p1)></command_run>
+<command_run time="Thu Feb 17 09:31:27 MST 2011">processPicture(p3, 8,5,4,7)></command_run>
+<command_run time="Thu Feb 17 09:32:16 MST 2011">show(p3)></command_run>
+<menu_button time="Thu Feb 17 09:33:01 MST 2011">Save Program</menu_button>
+<file_saved time="Thu Feb 17 09:33:01 MST 2011">C:\Users\lehi\Desktop\CS100_lab5\curves.py</file_saved>
+</file_created>
+<menu_button time="Thu Feb 17 09:33:42 MST 2011">Save Program</menu_button>
+<file_saved time="Thu Feb 17 09:33:42 MST 2011">C:\Users\lehi\Desktop\CS100_lab5\curves.py</file_saved>
+</file_created>
+<menu_button time="Thu Feb 17 09:34:27 MST 2011">getMediaPath</menu_button>
+<menu_button time="Thu Feb 17 09:35:32 MST 2011">makePicture</menu_button>
+<menu_button time="Thu Feb 17 09:35:37 MST 2011">Save Program</menu_button>
+<file_saved time="Thu Feb 17 09:35:37 MST 2011">C:\Users\lehi\Desktop\CS100_lab5\curves.py</file_saved>
+</file_created>
+<menu_button time="Thu Feb 17 09:36:41 MST 2011">Save Program</menu_button>
+<file_saved time="Thu Feb 17 09:36:41 MST 2011">C:\Users\lehi\Desktop\CS100_lab5\curves.py</file_saved>
+</file_created>
+<menu_button time="Thu Feb 17 09:36:45 MST 2011">Load Program</menu_button>
+<command_run time="Thu Feb 17 09:37:18 MST 2011">curves(Penguins.jpg, 3, 4, 5, 6)></command_run>
+<command_run time="Thu Feb 17 09:37:26 MST 2011">curves(Penguins, 3, 4, 5, 6)></command_run>
+<command_run time="Thu Feb 17 09:38:53 MST 2011">curves("Penguins", 3, 4, 5, 6)></command_run>
+<command_run time="Thu Feb 17 09:39:17 MST 2011">curves('Penguins', 3, 4, 5, 6)></command_run>
+<command_run time="Thu Feb 17 09:39:24 MST 2011">curves("\\Penguins", 3, 4, 5, 6)></command_run>
+<command_run time="Thu Feb 17 09:39:27 MST 2011">curves("\\\Penguins", 3, 4, 5, 6)></command_run>
+<command_run time="Thu Feb 17 09:39:33 MST 2011">curves("///Penguins", 3, 4, 5, 6)></command_run>
+<command_run time="Thu Feb 17 09:39:37 MST 2011">curves("//Penguins", 3, 4, 5, 6)></command_run>
+<command_run time="Thu Feb 17 09:39:41 MST 2011">curves("/Penguins", 3, 4, 5, 6)></command_run>
+<command_run time="Thu Feb 17 09:39:58 MST 2011">curves("Penguins.jpg", 3, 4, 5, 6)></command_run>
+<menu_button time="Thu Feb 17 09:42:33 MST 2011">Save Program</menu_button>
+<file_saved time="Thu Feb 17 09:42:33 MST 2011">C:\Users\lehi\Desktop\CS100_lab5\curves.py</file_saved>
+</file_created>
+<menu_button time="Thu Feb 17 09:42:35 MST 2011">Save Program</menu_button>
+<file_saved time="Thu Feb 17 09:42:35 MST 2011">C:\Users\lehi\Desktop\CS100_lab5\curves.py</file_saved>
+</file_created>
+<menu_button time="Thu Feb 17 09:42:39 MST 2011">Load Program</menu_button>
+<command_run time="Thu Feb 17 09:43:14 MST 2011">p1 = curves("Penguins.jpg", 0, 64, 191, 255)></command_run>
+<menu_button time="Thu Feb 17 09:44:07 MST 2011">getShortPath</menu_button>
+<command_run time="Thu Feb 17 09:44:17 MST 2011">p1 = getShortPath("Penguins.jpg")></command_run>
+<command_run time="Thu Feb 17 09:44:20 MST 2011">p1></command_run>
+<command_run time="Thu Feb 17 09:44:33 MST 2011">p1 = getMediaPath("Penguins.jpg")></command_run>
+<command_run time="Thu Feb 17 09:44:35 MST 2011">p1></command_run>
+<command_run time="Thu Feb 17 09:45:03 MST 2011">p1 = getMediaPath("\Penguins.jpg")></command_run>
+<command_run time="Thu Feb 17 09:45:07 MST 2011">p1></command_run>
+<command_run time="Thu Feb 17 09:45:50 MST 2011">p1 = curves("\Penguins.jpg", 0, 64, 191, 255)></command_run>
+<command_run time="Thu Feb 17 09:46:00 MST 2011">p1></command_run>
+<menu_button time="Thu Feb 17 09:46:11 MST 2011">makePicture</menu_button>
+<command_run time="Thu Feb 17 09:46:15 MST 2011">p2 = makePicture(p1)></command_run>
+<menu_button time="Thu Feb 17 09:46:29 MST 2011">pickAFile</menu_button>
+<command_run time="Thu Feb 17 09:46:30 MST 2011">p4 = pickAFile()></command_run>
+<command_run time="Thu Feb 17 09:46:35 MST 2011">p4></command_run>
+<command_run time="Thu Feb 17 09:46:58 MST 2011">p1 = getMediaPath("\Penguins.jpg")></command_run>
+<command_run time="Thu Feb 17 09:47:01 MST 2011">p1></command_run>
+<menu_button time="Thu Feb 17 09:48:19 MST 2011">getMediaFolder</menu_button>
+<command_run time="Thu Feb 17 09:48:39 MST 2011">pi = getMediaFolder("Penguins.jpg")></command_run>
+<command_run time="Thu Feb 17 09:48:41 MST 2011">pi></command_run>
+<menu_button time="Thu Feb 17 09:49:05 MST 2011">getMediaPath</menu_button>
+<command_run time="Thu Feb 17 09:49:21 MST 2011">pi = getMediaPath("Penguins.jpg")></command_run>
+<command_run time="Thu Feb 17 09:49:23 MST 2011">pi></command_run>
+<command_run time="Thu Feb 17 09:50:36 MST 2011">pi = os.path.dirname("Penguins.jpg")></command_run>
+<command_run time="Thu Feb 17 09:50:38 MST 2011">pi></command_run>
+<command_run time="Thu Feb 17 09:50:46 MST 2011">pi></command_run>
+<command_run time="Thu Feb 17 09:50:55 MST 2011">pi = os.path("Penguins.jpg")></command_run>
+<command_run time="Thu Feb 17 09:51:00 MST 2011">pi = os.path.dirname("Penguins.jpg")></command_run>
+<command_run time="Thu Feb 17 09:51:02 MST 2011">pi></command_run>
+<command_run time="Thu Feb 17 09:51:10 MST 2011">pi = os.path.dirname(Penguins.jpg)></command_run>
+<command_run time="Thu Feb 17 09:53:38 MST 2011">pi = os.path.basename("Penguins.jpg")></command_run>
+<command_run time="Thu Feb 17 09:53:40 MST 2011">pi></command_run>
+<command_run time="Thu Feb 17 09:53:51 MST 2011">pi = os.path.dirname("Penguins.jpg")></command_run>
+<command_run time="Thu Feb 17 09:53:53 MST 2011">pi></command_run>
+<command_run time="Thu Feb 17 09:55:25 MST 2011">pi = os.path.realpath("Penguins.jpg")></command_run>
+<command_run time="Thu Feb 17 09:55:27 MST 2011">pi></command_run>
+<command_run time="Thu Feb 17 09:55:56 MST 2011">pi = os.path.basename("Penguins.jpg")></command_run>
+<command_run time="Thu Feb 17 09:55:57 MST 2011">pi></command_run>
+<command_run time="Thu Feb 17 09:56:11 MST 2011">pi = os.path.abspath("Penguins.jpg")></command_run>
+<command_run time="Thu Feb 17 09:56:13 MST 2011">pi></command_run>
+<menu_button time="Thu Feb 17 09:58:01 MST 2011">Save Program</menu_button>
+<file_saved time="Thu Feb 17 09:58:01 MST 2011">C:\Users\lehi\Desktop\CS100_lab5\curves.py</file_saved>
+</file_created>
+<command_run time="Thu Feb 17 09:58:33 MST 2011">pi = os.path.sys.argv[0] ("Penguins.jpg")></command_run>
+<command_run time="Thu Feb 17 09:58:49 MST 2011">pi = os.path.dirname("Penguins.jpg")></command_run>
+<command_run time="Thu Feb 17 09:58:50 MST 2011">pi></command_run>
+<command_run time="Thu Feb 17 09:59:10 MST 2011">pi = os.getcwd("Penguins.jpg")></command_run>
+<command_run time="Thu Feb 17 09:59:26 MST 2011">pi = os.getcwd()></command_run>
+<command_run time="Thu Feb 17 09:59:29 MST 2011">pi></command_run>
+<command_run time="Thu Feb 17 10:00:11 MST 2011">pi = getMediaPath("Penguins.jpg")></command_run>
+<command_run time="Thu Feb 17 10:00:13 MST 2011">pi></command_run>
+<command_run time="Thu Feb 17 10:00:47 MST 2011">pi = getMediaPath("\\Desktop\\cs100_lab5\\Penguins.jpg")></command_run>
+<command_run time="Thu Feb 17 10:00:49 MST 2011">pi></command_run>
+<command_run time="Thu Feb 17 10:01:01 MST 2011">pi = getMediaPath("\\Desktop\\CS100_lab5\\Penguins.jpg")></command_run>
+<command_run time="Thu Feb 17 10:01:05 MST 2011">pi></command_run>
+<command_run time="Thu Feb 17 10:01:48 MST 2011">p1 = curves("\\Desktop\\CS100_lab5\\Penguins.jpg", 0, 64, 191, 255)></command_run>
+<command_run time="Thu Feb 17 10:02:48 MST 2011">show(p1)></command_run>
+<command_run time="Thu Feb 17 10:03:01 MST 2011">p1></command_run>
+<command_run time="Thu Feb 17 10:03:16 MST 2011">show(p1)></command_run>
+<command_run time="Thu Feb 17 10:04:25 MST 2011">writePictureTo(p1, "picture1.jpg")></command_run>
+<command_run time="Thu Feb 17 10:05:48 MST 2011">show(p1)></command_run>
+<menu_button time="Thu Feb 17 10:06:16 MST 2011">writePictureTo</menu_button>
+<menu_button time="Thu Feb 17 10:07:00 MST 2011">setMediaPath</menu_button>
+<command_run time="Thu Feb 17 10:07:29 MST 2011">p2 = setMediaPath()></command_run>
+<command_run time="Thu Feb 17 10:07:46 MST 2011">writePictureTo(p1, "picture1.jpg")></command_run>
+<command_run time="Thu Feb 17 10:08:51 MST 2011">p1 = curves("Penguins.jpg", 0, 64, 191, 255)></command_run>
+<command_run time="Thu Feb 17 10:09:45 MST 2011">writePictureTo(p1, "picture1.jpg")></command_run>
+<command_run time="Thu Feb 17 10:11:34 MST 2011">p1 = curves("Penguins.jpg",  64, 0, 255, 191)></command_run>
+<command_run time="Thu Feb 17 10:12:33 MST 2011">writePictureTo(p1, "picture2.jpg")></command_run>
+<command_run time="Thu Feb 17 10:13:13 MST 2011">p1 = curves("Penguins.jpg",  64, 0, 191,255)></command_run>
+<command_run time="Thu Feb 17 10:14:05 MST 2011">writePictureTo(p1, "picture3.jpg")></command_run>
+<command_run time="Thu Feb 17 10:14:40 MST 2011">p1 = curves("Penguins.jpg",  0, 64, 255, 191)></command_run>
+<command_run time="Thu Feb 17 10:15:37 MST 2011">writePictureTo(p1, "picture4.jpg")></command_run>
+<command_run time="Thu Feb 17 10:16:07 MST 2011">p1 = curves("Penguins.jpg",  127, 0, 127, 255)></command_run>
+<command_run time="Thu Feb 17 10:16:32 MST 2011">writePictureTo(p1, "picture5.jpg")></command_run>
+<command_run time="Thu Feb 17 10:16:59 MST 2011">p1 = curves("Penguins.jpg", 255, 0, 0, 255)></command_run>
+<command_run time="Thu Feb 17 10:17:55 MST 2011">writePictureTo(p1, "picture6.jpg")></command_run>
+<command_run time="Thu Feb 17 10:18:21 MST 2011">p1 = curves("Penguins.jpg", 96, 0, 191, 255)></command_run>
+<command_run time="Thu Feb 17 10:19:19 MST 2011">writePictureTo(p1, "picture7.jpg")></command_run>
+<menu_button time="Thu Feb 17 10:30:36 MST 2011">Save Program</menu_button>
+<file_saved time="Thu Feb 17 10:30:36 MST 2011">C:\Users\lehi\Desktop\CS100_lab5\curves.py</file_saved>
+</file_created>
+<menu_button time="Thu Feb 17 10:33:19 MST 2011">Save Program</menu_button>
+<file_saved time="Thu Feb 17 10:33:19 MST 2011">C:\Users\lehi\Desktop\CS100_lab5\curves.py</file_saved>
+</file_created>
+<menu_button time="Thu Feb 17 10:35:41 MST 2011">Save Program</menu_button>
+<file_saved time="Thu Feb 17 10:35:41 MST 2011">C:\Users\lehi\Desktop\CS100_lab5\curves.py</file_saved>
+</file_created>
+<menu_button time="Thu Feb 17 10:35:45 MST 2011">Save Program</menu_button>
+<file_saved time="Thu Feb 17 10:35:45 MST 2011">C:\Users\lehi\Desktop\CS100_lab5\curves.py</file_saved>
+</file_created>
+<menu_button time="Thu Feb 17 10:35:58 MST 2011">Save Program</menu_button>
+<file_saved time="Thu Feb 17 10:35:58 MST 2011">C:\Users\lehi\Desktop\CS100_lab5\curves.py</file_saved>
+</file_created>
+<menu_button time="Thu Feb 17 10:42:34 MST 2011">Load Program</menu_button>
+<menu_button time="Thu Feb 17 10:42:41 MST 2011">Save Program</menu_button>
+<file_saved time="Thu Feb 17 10:42:41 MST 2011">C:\Users\lehi\Desktop\CS100_lab5\curves.py</file_saved>
+</file_created>
+<menu_button time="Thu Feb 17 10:42:42 MST 2011">Load Program</menu_button>
+<menu_button time="Thu Feb 17 10:45:46 MST 2011">Save Program</menu_button>
+<file_saved time="Thu Feb 17 10:45:46 MST 2011">C:\Users\lehi\Desktop\CS100_lab5\curves.py</file_saved>
+</file_created>
+<menu_button time="Thu Feb 17 10:45:48 MST 2011">Load Program</menu_button>
+<menu_button time="Thu Feb 17 10:46:10 MST 2011">Save Program</menu_button>
+<file_saved time="Thu Feb 17 10:46:10 MST 2011">C:\Users\lehi\Desktop\CS100_lab5\curves.py</file_saved>
+</file_created>
+<menu_button time="Thu Feb 17 10:46:11 MST 2011">Load Program</menu_button>
+<menu_button time="Thu Feb 17 10:46:27 MST 2011">Save Program</menu_button>
+<file_saved time="Thu Feb 17 10:46:27 MST 2011">C:\Users\lehi\Desktop\CS100_lab5\curves.py</file_saved>
+</file_created>
+<menu_button time="Thu Feb 17 10:46:28 MST 2011">Load Program</menu_button>
+<menu_button time="Thu Feb 17 10:47:05 MST 2011">Save Program</menu_button>
+<file_saved time="Thu Feb 17 10:47:05 MST 2011">C:\Users\lehi\Desktop\CS100_lab5\curves.py</file_saved>
+</file_created>
+<menu_button time="Thu Feb 17 10:47:07 MST 2011">Load Program</menu_button>
+<menu_button time="Thu Feb 17 10:47:54 MST 2011">Save Program</menu_button>
+<file_saved time="Thu Feb 17 10:47:54 MST 2011">C:\Users\lehi\Desktop\CS100_lab5\curves.py</file_saved>
+</file_created>
+<menu_button time="Thu Feb 17 10:48:05 MST 2011">Save Program</menu_button>
+<file_saved time="Thu Feb 17 10:48:05 MST 2011">C:\Users\lehi\Desktop\CS100_lab5\curves.py</file_saved>
+</file_created>
+<menu_button time="Thu Feb 17 10:48:06 MST 2011">Load Program</menu_button>
+<menu_button time="Thu Feb 17 10:48:15 MST 2011">Load Program</menu_button>
+<file_saved time="Thu Feb 17 10:48:16 MST 2011">C:\Users\lehi\Desktop\CS100_lab5\curves.py</file_saved>
+</file_created>
+<menu_button time="Thu Feb 17 10:48:19 MST 2011">Undo</menu_button>
+<menu_button time="Thu Feb 17 10:48:20 MST 2011">Undo</menu_button>
+<menu_button time="Thu Feb 17 10:48:21 MST 2011">Undo</menu_button>
+<menu_button time="Thu Feb 17 10:48:21 MST 2011">Undo</menu_button>
+<menu_button time="Thu Feb 17 10:48:21 MST 2011">Undo</menu_button>
+<menu_button time="Thu Feb 17 10:48:21 MST 2011">Undo</menu_button>
+<menu_button time="Thu Feb 17 10:48:21 MST 2011">Undo</menu_button>
+<menu_button time="Thu Feb 17 10:48:21 MST 2011">Undo</menu_button>
+<menu_button time="Thu Feb 17 10:48:22 MST 2011">Undo</menu_button>
+<menu_button time="Thu Feb 17 10:48:23 MST 2011">Save Program</menu_button>
+<file_saved time="Thu Feb 17 10:48:23 MST 2011">C:\Users\lehi\Desktop\CS100_lab5\curves.py</file_saved>
+</file_created>
+<menu_button time="Thu Feb 17 10:48:39 MST 2011">Load Program</menu_button>
+<menu_button time="Thu Feb 17 10:49:45 MST 2011">Save Program</menu_button>
+<file_saved time="Thu Feb 17 10:49:45 MST 2011">C:\Users\lehi\Desktop\CS100_lab5\curves.py</file_saved>
+</file_created>
+<menu_button time="Thu Feb 17 10:49:49 MST 2011">Save Program</menu_button>
+<file_saved time="Thu Feb 17 10:49:49 MST 2011">C:\Users\lehi\Desktop\CS100_lab5\curves.py</file_saved>
+</file_created>
+<menu_button time="Thu Feb 17 10:49:50 MST 2011">Load Program</menu_button>
+<menu_button time="Thu Feb 17 10:50:49 MST 2011">Save Program</menu_button>
+<file_saved time="Thu Feb 17 10:50:49 MST 2011">C:\Users\lehi\Desktop\CS100_lab5\curves.py</file_saved>
+</file_created>
+<menu_button time="Thu Feb 17 10:50:51 MST 2011">Load Program</menu_button>
+<menu_button time="Thu Feb 17 10:51:01 MST 2011">Save Program</menu_button>
+<file_saved time="Thu Feb 17 10:51:01 MST 2011">C:\Users\lehi\Desktop\CS100_lab5\curves.py</file_saved>
+</file_created>
+<menu_button time="Thu Feb 17 10:51:02 MST 2011">Load Program</menu_button>
+<menu_button time="Thu Feb 17 10:51:05 MST 2011">Undo</menu_button>
+<menu_button time="Thu Feb 17 10:51:06 MST 2011">Undo</menu_button>
+<menu_button time="Thu Feb 17 10:51:07 MST 2011">Undo</menu_button>
+<menu_button time="Thu Feb 17 10:51:07 MST 2011">Undo</menu_button>
+<menu_button time="Thu Feb 17 10:51:08 MST 2011">Save Program</menu_button>
+<file_saved time="Thu Feb 17 10:51:08 MST 2011">C:\Users\lehi\Desktop\CS100_lab5\curves.py</file_saved>
+</file_created>
+<menu_button time="Thu Feb 17 10:51:13 MST 2011">Save Program</menu_button>
+<file_saved time="Thu Feb 17 10:51:13 MST 2011">C:\Users\lehi\Desktop\CS100_lab5\curves.py</file_saved>
+</file_created>
+<menu_button time="Thu Feb 17 10:51:14 MST 2011">Load Program</menu_button>
+<menu_button time="Thu Feb 17 10:52:38 MST 2011">Save Program</menu_button>
+<file_saved time="Thu Feb 17 10:52:38 MST 2011">C:\Users\lehi\Desktop\CS100_lab5\curves.py</file_saved>
+</file_created>
+<menu_button time="Thu Feb 17 10:52:40 MST 2011">Load Program</menu_button>
+<menu_button time="Thu Feb 17 10:53:36 MST 2011">Save Program</menu_button>
+<file_saved time="Thu Feb 17 10:53:36 MST 2011">C:\Users\lehi\Desktop\CS100_lab5\curves.py</file_saved>
+</file_created>
+<menu_button time="Thu Feb 17 10:53:37 MST 2011">Load Program</menu_button>
+<menu_button time="Thu Feb 17 10:53:55 MST 2011">Save Program</menu_button>
+<file_saved time="Thu Feb 17 10:53:55 MST 2011">C:\Users\lehi\Desktop\CS100_lab5\curves.py</file_saved>
+</file_created>
+<menu_button time="Thu Feb 17 10:53:56 MST 2011">Load Program</menu_button>
+<menu_button time="Thu Feb 17 10:54:04 MST 2011">Save Program</menu_button>
+<file_saved time="Thu Feb 17 10:54:04 MST 2011">C:\Users\lehi\Desktop\CS100_lab5\curves.py</file_saved>
+</file_created>
+<menu_button time="Thu Feb 17 10:54:05 MST 2011">Load Program</menu_button>
+<menu_button time="Thu Feb 17 10:54:25 MST 2011">Save Program</menu_button>
+<file_saved time="Thu Feb 17 10:54:25 MST 2011">C:\Users\lehi\Desktop\CS100_lab5\curves.py</file_saved>
+</file_created>
+<menu_button time="Thu Feb 17 10:54:28 MST 2011">Load Program</menu_button>
+<menu_button time="Thu Feb 17 10:54:33 MST 2011">Save Program</menu_button>
+<file_saved time="Thu Feb 17 10:54:33 MST 2011">C:\Users\lehi\Desktop\CS100_lab5\curves.py</file_saved>
+</file_created>
+<menu_button time="Thu Feb 17 10:54:34 MST 2011">Load Program</menu_button>
+<menu_button time="Thu Feb 17 10:54:54 MST 2011">Save Program</menu_button>
+<file_saved time="Thu Feb 17 10:54:54 MST 2011">C:\Users\lehi\Desktop\CS100_lab5\curves.py</file_saved>
+</file_created>
+<menu_button time="Thu Feb 17 10:54:55 MST 2011">Load Program</menu_button>
+<menu_button time="Thu Feb 17 10:54:59 MST 2011">Save Program</menu_button>
+<file_saved time="Thu Feb 17 10:54:59 MST 2011">C:\Users\lehi\Desktop\CS100_lab5\curves.py</file_saved>
+</file_created>
+<menu_button time="Thu Feb 17 10:55:01 MST 2011">Load Program</menu_button>
+<menu_button time="Thu Feb 17 10:55:11 MST 2011">Save Program</menu_button>
+<file_saved time="Thu Feb 17 10:55:11 MST 2011">C:\Users\lehi\Desktop\CS100_lab5\curves.py</file_saved>
+<file_opened time="Thu Feb 17 12:36:16 MST 2011">C:\Users\lehi\Desktop\CS100_lab5\curves.py</file_opened>
+<menu_button time="Thu Feb 17 12:40:31 MST 2011">Save Program</menu_button>
+<file_saved time="Thu Feb 17 12:40:31 MST 2011">C:\Users\lehi\Desktop\CS100_lab5\curves.py</file_saved>
+</file_created>
+<menu_button time="Thu Feb 17 12:40:33 MST 2011">Load Program</menu_button>
+<menu_button time="Thu Feb 17 12:40:47 MST 2011">Save Program</menu_button>
+<file_saved time="Thu Feb 17 12:40:47 MST 2011">C:\Users\lehi\Desktop\CS100_lab5\curves.py</file_saved>
+</file_created>
+<menu_button time="Thu Feb 17 12:40:49 MST 2011">Load Program</menu_button>
+<menu_button time="Thu Feb 17 12:40:59 MST 2011">Save Program</menu_button>
+<file_saved time="Thu Feb 17 12:40:59 MST 2011">C:\Users\lehi\Desktop\CS100_lab5\curves.py</file_saved>
+</file_created>
+<menu_button time="Thu Feb 17 12:41:00 MST 2011">Load Program</menu_button>
+<menu_button time="Thu Feb 17 12:41:18 MST 2011">Save Program</menu_button>
+<file_saved time="Thu Feb 17 12:41:18 MST 2011">C:\Users\lehi\Desktop\CS100_lab5\curves.py</file_saved>
+</file_created>
+<menu_button time="Thu Feb 17 12:41:19 MST 2011">Load Program</menu_button>
+<menu_button time="Thu Feb 17 12:41:25 MST 2011">Save Program</menu_button>
+<file_saved time="Thu Feb 17 12:41:25 MST 2011">C:\Users\lehi\Desktop\CS100_lab5\curves.py</file_saved>
+</file_created>
+<menu_button time="Thu Feb 17 12:41:27 MST 2011">Load Program</menu_button>
+<menu_button time="Thu Feb 17 12:42:20 MST 2011">Save Program</menu_button>
+<file_saved time="Thu Feb 17 12:42:20 MST 2011">C:\Users\lehi\Desktop\CS100_lab5\curves.py</file_saved>
+</file_created>
+<menu_button time="Thu Feb 17 12:42:30 MST 2011">Save Program</menu_button>
+<file_saved time="Thu Feb 17 12:42:30 MST 2011">C:\Users\lehi\Desktop\CS100_lab5\curves.py</file_saved>
+</file_created>
+<menu_button time="Thu Feb 17 12:42:31 MST 2011">Load Program</menu_button>
+<menu_button time="Thu Feb 17 12:42:46 MST 2011">Save Program</menu_button>
+<file_saved time="Thu Feb 17 12:42:46 MST 2011">C:\Users\lehi\Desktop\CS100_lab5\curves.py</file_saved>
+</file_created>
+<menu_button time="Thu Feb 17 12:42:48 MST 2011">Load Program</menu_button>
+<menu_button time="Thu Feb 17 12:43:11 MST 2011">Save Program</menu_button>
+<file_saved time="Thu Feb 17 12:43:11 MST 2011">C:\Users\lehi\Desktop\CS100_lab5\curves.py</file_saved>
+</file_created>
+<menu_button time="Thu Feb 17 12:43:13 MST 2011">Load Program</menu_button>
+<menu_button time="Thu Feb 17 12:44:05 MST 2011">Save Program</menu_button>
+<file_saved time="Thu Feb 17 12:44:05 MST 2011">C:\Users\lehi\Desktop\CS100_lab5\curves.py</file_saved>
+<file_opened time="Thu Feb 17 14:13:45 MST 2011">C:\Users\lehi\Desktop\CS100_lab5\curves.py</file_opened>
+<menu_button time="Thu Feb 17 14:15:34 MST 2011">Save Program</menu_button>
+<file_saved time="Thu Feb 17 14:15:34 MST 2011">C:\Users\lehi\Desktop\CS100_lab5\curves.py</file_saved>
+</file_created>
+<menu_button time="Thu Feb 17 14:15:38 MST 2011">Load Program</menu_button>
+<menu_button time="Thu Feb 17 14:16:31 MST 2011">Undo</menu_button>
+<menu_button time="Thu Feb 17 14:16:32 MST 2011">Undo</menu_button>
+<menu_button time="Thu Feb 17 14:16:32 MST 2011">Undo</menu_button>
+<menu_button time="Thu Feb 17 14:16:32 MST 2011">Undo</menu_button>
+<menu_button time="Thu Feb 17 14:16:32 MST 2011">Undo</menu_button>
+<menu_button time="Thu Feb 17 14:16:32 MST 2011">Undo</menu_button>
+<menu_button time="Thu Feb 17 14:16:33 MST 2011">Undo</menu_button>
+<menu_button time="Thu Feb 17 14:16:33 MST 2011">Undo</menu_button>
+<menu_button time="Thu Feb 17 14:16:33 MST 2011">Undo</menu_button>
+<menu_button time="Thu Feb 17 14:16:33 MST 2011">Undo</menu_button>
+<menu_button time="Thu Feb 17 14:16:33 MST 2011">Undo</menu_button>
+<menu_button time="Thu Feb 17 14:16:33 MST 2011">Undo</menu_button>
+<menu_button time="Thu Feb 17 14:16:34 MST 2011">Undo</menu_button>
+<menu_button time="Thu Feb 17 14:16:34 MST 2011">Undo</menu_button>
+<menu_button time="Thu Feb 17 14:16:34 MST 2011">Undo</menu_button>
+<menu_button time="Thu Feb 17 14:16:34 MST 2011">Undo</menu_button>
+<menu_button time="Thu Feb 17 14:16:35 MST 2011">Undo</menu_button>
+<menu_button time="Thu Feb 17 14:16:37 MST 2011">Redo</menu_button>
+<menu_button time="Thu Feb 17 14:16:37 MST 2011">Redo</menu_button>
+<menu_button time="Thu Feb 17 14:16:38 MST 2011">Redo</menu_button>
+<menu_button time="Thu Feb 17 14:16:39 MST 2011">Undo</menu_button>
+<menu_button time="Thu Feb 17 14:16:40 MST 2011">Save Program</menu_button>
+<file_saved time="Thu Feb 17 14:16:40 MST 2011">C:\Users\lehi\Desktop\CS100_lab5\curves.py</file_saved>
+</file_created>
+<menu_button time="Thu Feb 17 14:24:53 MST 2011">Save Program</menu_button>
+<file_saved time="Thu Feb 17 14:24:53 MST 2011">C:\Users\lehi\Desktop\CS100_lab5\curves.py</file_saved>
+</file_created>
+<menu_button time="Thu Feb 17 14:25:17 MST 2011">Save Program</menu_button>
+<file_saved time="Thu Feb 17 14:25:17 MST 2011">C:\Users\lehi\Desktop\CS100_lab5\curves.py</file_saved>
+</file_created>
+<menu_button time="Thu Feb 17 14:26:33 MST 2011">Save Program</menu_button>
+<file_saved time="Thu Feb 17 14:26:33 MST 2011">C:\Users\lehi\Desktop\CS100_lab5\curves.py</file_saved>
+</file_created>
+<menu_button time="Thu Feb 17 14:26:34 MST 2011">Load Program</menu_button>
+<menu_button time="Thu Feb 17 14:27:13 MST 2011">Save Program</menu_button>
+<file_saved time="Thu Feb 17 14:27:13 MST 2011">C:\Users\lehi\Desktop\CS100_lab5\curves.py</file_saved>
+</file_created>
+<menu_button time="Thu Feb 17 14:27:30 MST 2011">Save Program</menu_button>
+<file_saved time="Thu Feb 17 14:27:30 MST 2011">C:\Users\lehi\Desktop\CS100_lab5\curves.py</file_saved>
+</file_created>
+<menu_button time="Thu Feb 17 14:27:32 MST 2011">Load Program</menu_button>
+<menu_button time="Thu Feb 17 14:29:25 MST 2011">Save Program</menu_button>
+<file_saved time="Thu Feb 17 14:29:25 MST 2011">C:\Users\lehi\Desktop\CS100_lab5\curves.py</file_saved>
+</file_created>
+<menu_button time="Thu Feb 17 14:34:33 MST 2011">Save Program</menu_button>
+<file_saved time="Thu Feb 17 14:34:33 MST 2011">C:\Users\lehi\Desktop\CS100_lab5\curves.py</file_saved>
+</file_created>
+<menu_button time="Thu Feb 17 14:51:38 MST 2011">Save Program</menu_button>
+<file_saved time="Thu Feb 17 14:51:38 MST 2011">C:\Users\lehi\Desktop\CS100_lab5\curves.py</file_saved>
+</file_created>
+<menu_button time="Thu Feb 17 14:52:52 MST 2011">Save Program</menu_button>
+<file_saved time="Thu Feb 17 14:52:52 MST 2011">C:\Users\lehi\Desktop\CS100_lab5\curves.py</file_saved>
+</file_created>
+<menu_button time="Thu Feb 17 14:54:26 MST 2011">Save Program</menu_button>
+<file_saved time="Thu Feb 17 14:54:26 MST 2011">C:\Users\lehi\Desktop\CS100_lab5\curves.py</file_saved>
+</file_created>
+<menu_button time="Thu Feb 17 14:54:59 MST 2011">Save Program</menu_button>
+<file_saved time="Thu Feb 17 14:54:59 MST 2011">C:\Users\lehi\Desktop\CS100_lab5\curves.py</file_saved>
+</file_created>
+<menu_button time="Thu Feb 17 14:55:23 MST 2011">Save Program</menu_button>
+<file_saved time="Thu Feb 17 14:55:23 MST 2011">C:\Users\lehi\Desktop\CS100_lab5\curves.py</file_saved>
+</file_created>
+<menu_button time="Thu Feb 17 14:55:53 MST 2011">Undo</menu_button>
+<menu_button time="Thu Feb 17 14:55:53 MST 2011">Undo</menu_button>
+<menu_button time="Thu Feb 17 14:55:53 MST 2011">Undo</menu_button>
+<menu_button time="Thu Feb 17 14:55:54 MST 2011">Undo</menu_button>
+<menu_button time="Thu Feb 17 14:55:54 MST 2011">Undo</menu_button>
+<menu_button time="Thu Feb 17 14:55:54 MST 2011">Undo</menu_button>
+<menu_button time="Thu Feb 17 14:55:54 MST 2011">Undo</menu_button>
+<menu_button time="Thu Feb 17 14:55:55 MST 2011">Undo</menu_button>
+<menu_button time="Thu Feb 17 14:55:55 MST 2011">Undo</menu_button>
+<menu_button time="Thu Feb 17 14:55:55 MST 2011">Undo</menu_button>
+<menu_button time="Thu Feb 17 14:55:55 MST 2011">Undo</menu_button>
+<menu_button time="Thu Feb 17 14:55:56 MST 2011">Undo</menu_button>
+<menu_button time="Thu Feb 17 14:55:56 MST 2011">Undo</menu_button>
+<menu_button time="Thu Feb 17 14:55:56 MST 2011">Undo</menu_button>
+<menu_button time="Thu Feb 17 14:55:56 MST 2011">Undo</menu_button>
+<menu_button time="Thu Feb 17 14:55:56 MST 2011">Undo</menu_button>
+<menu_button time="Thu Feb 17 14:55:57 MST 2011">Undo</menu_button>
+<menu_button time="Thu Feb 17 14:55:57 MST 2011">Undo</menu_button>
+<menu_button time="Thu Feb 17 14:55:57 MST 2011">Undo</menu_button>
+<menu_button time="Thu Feb 17 14:55:57 MST 2011">Undo</menu_button>
+<menu_button time="Thu Feb 17 14:55:57 MST 2011">Undo</menu_button>
+<menu_button time="Thu Feb 17 14:55:57 MST 2011">Undo</menu_button>
+<menu_button time="Thu Feb 17 14:55:58 MST 2011">Undo</menu_button>
+<menu_button time="Thu Feb 17 14:55:58 MST 2011">Undo</menu_button>
+<menu_button time="Thu Feb 17 14:55:58 MST 2011">Undo</menu_button>
+<menu_button time="Thu Feb 17 14:55:58 MST 2011">Undo</menu_button>
+<menu_button time="Thu Feb 17 14:55:58 MST 2011">Undo</menu_button>
+<menu_button time="Thu Feb 17 14:55:59 MST 2011">Undo</menu_button>
+<menu_button time="Thu Feb 17 14:55:59 MST 2011">Undo</menu_button>
+<menu_button time="Thu Feb 17 14:55:59 MST 2011">Undo</menu_button>
+<menu_button time="Thu Feb 17 14:56:00 MST 2011">Undo</menu_button>
+<menu_button time="Thu Feb 17 14:56:00 MST 2011">Undo</menu_button>
+<menu_button time="Thu Feb 17 14:56:09 MST 2011">Save Program</menu_button>
+<file_saved time="Thu Feb 17 14:56:09 MST 2011">C:\Users\lehi\Desktop\CS100_lab5\curves.py</file_saved>
+</file_created>
+<menu_button time="Thu Feb 17 14:56:38 MST 2011">Save Program</menu_button>
+<file_saved time="Thu Feb 17 14:56:38 MST 2011">C:\Users\lehi\Desktop\CS100_lab5\curves.py</file_saved>
+</file_created>
+<menu_button time="Thu Feb 17 14:56:57 MST 2011">Save Program</menu_button>
+<file_saved time="Thu Feb 17 14:56:58 MST 2011">C:\Users\lehi\Desktop\CS100_lab5\curves.py</file_saved>
+</file_created>
+<menu_button time="Thu Feb 17 14:57:35 MST 2011">Save Program</menu_button>
+<file_saved time="Thu Feb 17 14:57:35 MST 2011">C:\Users\lehi\Desktop\CS100_lab5\curves.py</file_saved>
+</file_created>
+<menu_button time="Thu Feb 17 14:57:46 MST 2011">Save Program</menu_button>
+<file_saved time="Thu Feb 17 14:57:46 MST 2011">C:\Users\lehi\Desktop\CS100_lab5\curves.py</file_saved>
+</file_created>
+<menu_button time="Thu Feb 17 15:01:43 MST 2011">Save Program</menu_button>
+<file_saved time="Thu Feb 17 15:01:43 MST 2011">C:\Users\lehi\Desktop\CS100_lab5\curves.py</file_saved>
+</file_created>
+<menu_button time="Thu Feb 17 15:01:54 MST 2011">Save Program</menu_button>
+<file_saved time="Thu Feb 17 15:01:54 MST 2011">C:\Users\lehi\Desktop\CS100_lab5\curves.py</file_saved>
+</file_created>
+<menu_button time="Thu Feb 17 15:01:58 MST 2011">Load Program</menu_button>
+<menu_button time="Thu Feb 17 15:02:02 MST 2011">Save Program</menu_button>
+<file_saved time="Thu Feb 17 15:02:02 MST 2011">C:\Users\lehi\Desktop\CS100_lab5\curves.py</file_saved>
+</file_created>
+<menu_button time="Thu Feb 17 15:03:06 MST 2011">Save Program</menu_button>
+<file_saved time="Thu Feb 17 15:03:06 MST 2011">C:\Users\lehi\Desktop\CS100_lab5\curves.py</file_saved>
+</file_created>
+<menu_button time="Thu Feb 17 15:03:09 MST 2011">Load Program</menu_button>
+<menu_button time="Thu Feb 17 15:03:37 MST 2011">Save Program</menu_button>
+<file_saved time="Thu Feb 17 15:03:37 MST 2011">C:\Users\lehi\Desktop\CS100_lab5\curves.py</file_saved>
+</file_created>
+<menu_button time="Thu Feb 17 15:04:48 MST 2011">Save Program</menu_button>
+<file_saved time="Thu Feb 17 15:04:48 MST 2011">C:\Users\lehi\Desktop\CS100_lab5\curves.py</file_saved>
+</file_created>
+<menu_button time="Thu Feb 17 15:07:28 MST 2011">Load Program</menu_button>
+<menu_button time="Thu Feb 17 15:08:17 MST 2011">makePicture</menu_button>
+<menu_button time="Thu Feb 17 15:08:23 MST 2011">Save Program</menu_button>
+<file_saved time="Thu Feb 17 15:08:23 MST 2011">C:\Users\lehi\Desktop\CS100_lab5\curves.py</file_saved>
+</file_created>
+<menu_button time="Thu Feb 17 15:14:21 MST 2011">Load Program</menu_button>
+<menu_button time="Thu Feb 17 15:14:30 MST 2011">Save Program</menu_button>
+<file_saved time="Thu Feb 17 15:14:30 MST 2011">C:\Users\lehi\Desktop\CS100_lab5\curves.py</file_saved>
+</file_created>
+<menu_button time="Thu Feb 17 15:14:32 MST 2011">Load Program</menu_button>
+<menu_button time="Thu Feb 17 15:16:53 MST 2011">Save Program</menu_button>
+<file_saved time="Thu Feb 17 15:16:53 MST 2011">C:\Users\lehi\Desktop\CS100_lab5\curves.py</file_saved>
+</file_created>
+<menu_button time="Thu Feb 17 15:17:03 MST 2011">Save Program</menu_button>
+<file_saved time="Thu Feb 17 15:17:03 MST 2011">C:\Users\lehi\Desktop\CS100_lab5\curves.py</file_saved>
+</file_created>
+<menu_button time="Thu Feb 17 15:17:07 MST 2011">Save Program</menu_button>
+<file_saved time="Thu Feb 17 15:17:07 MST 2011">C:\Users\lehi\Desktop\CS100_lab5\curves.py</file_saved>
+</file_created>
+<menu_button time="Thu Feb 17 15:17:35 MST 2011">Save Program</menu_button>
+<file_saved time="Thu Feb 17 15:17:35 MST 2011">C:\Users\lehi\Desktop\CS100_lab5\curves.py</file_saved>
+</file_created>
+<menu_button time="Thu Feb 17 15:20:02 MST 2011">Save Program</menu_button>
+<file_saved time="Thu Feb 17 15:20:02 MST 2011">C:\Users\lehi\Desktop\CS100_lab5\curves.py</file_saved>
+</file_created>
+<menu_button time="Thu Feb 17 15:20:09 MST 2011">Save Program</menu_button>
+<file_saved time="Thu Feb 17 15:20:09 MST 2011">C:\Users\lehi\Desktop\CS100_lab5\curves.py</file_saved>
+</file_created>
+<menu_button time="Thu Feb 17 15:20:30 MST 2011">Save Program</menu_button>
+<file_saved time="Thu Feb 17 15:20:30 MST 2011">C:\Users\lehi\Desktop\CS100_lab5\curves.py</file_saved>
+</file_created>
+<menu_button time="Thu Feb 17 15:23:58 MST 2011">Save Program</menu_button>
+<file_saved time="Thu Feb 17 15:23:58 MST 2011">C:\Users\lehi\Desktop\CS100_lab5\curves.py</file_saved>
+</file_created>
+<menu_button time="Thu Feb 17 15:24:00 MST 2011">Load Program</menu_button>
+<menu_button time="Thu Feb 17 15:28:19 MST 2011">Save Program</menu_button>
+<file_saved time="Thu Feb 17 15:28:19 MST 2011">C:\Users\lehi\Desktop\CS100_lab5\curves.py</file_saved>
+</file_created>
+<menu_button time="Thu Feb 17 15:28:26 MST 2011">Load Program</menu_button>
+<menu_button time="Thu Feb 17 15:28:44 MST 2011">Undo</menu_button>
+<menu_button time="Thu Feb 17 15:33:53 MST 2011">Save Program</menu_button>
+<file_saved time="Thu Feb 17 15:33:53 MST 2011">C:\Users\lehi\Desktop\CS100_lab5\curves.py</file_saved>
+</file_created>
+<menu_button time="Thu Feb 17 15:34:21 MST 2011">setMediaPath</menu_button>
+<menu_button time="Thu Feb 17 15:34:24 MST 2011">Save Program</menu_button>
+<file_saved time="Thu Feb 17 15:34:24 MST 2011">C:\Users\lehi\Desktop\CS100_lab5\curves.py</file_saved>
+</file_created>
+<menu_button time="Thu Feb 17 15:34:37 MST 2011">Save Program</menu_button>
+<file_saved time="Thu Feb 17 15:34:37 MST 2011">C:\Users\lehi\Desktop\CS100_lab5\curves.py</file_saved>
+</file_created>
+<menu_button time="Thu Feb 17 15:36:50 MST 2011">Save Program</menu_button>
+<file_saved time="Thu Feb 17 15:36:50 MST 2011">C:\Users\lehi\Desktop\CS100_lab5\curves.py</file_saved>
+</file_created>
+<menu_button time="Thu Feb 17 15:37:01 MST 2011">Save Program</menu_button>
+<file_saved time="Thu Feb 17 15:37:01 MST 2011">C:\Users\lehi\Desktop\CS100_lab5\curves.py</file_saved>
+</file_created>
+<menu_button time="Thu Feb 17 15:38:32 MST 2011">Save Program</menu_button>
+<file_saved time="Thu Feb 17 15:38:32 MST 2011">C:\Users\lehi\Desktop\CS100_lab5\curves.py</file_saved>
+</file_created>
+<menu_button time="Thu Feb 17 15:45:19 MST 2011">Save Program</menu_button>
+<file_saved time="Thu Feb 17 15:45:19 MST 2011">C:\Users\lehi\Desktop\CS100_lab5\curves.py</file_saved>
+</file_created>
+<menu_button time="Thu Feb 17 15:45:30 MST 2011">Save Program</menu_button>
+<file_saved time="Thu Feb 17 15:45:30 MST 2011">C:\Users\lehi\Desktop\CS100_lab5\curves.py</file_saved>
+</file_created>
+<menu_button time="Thu Feb 17 15:46:57 MST 2011">Undo</menu_button>
+<menu_button time="Thu Feb 17 15:46:57 MST 2011">Undo</menu_button>
+<menu_button time="Thu Feb 17 15:46:57 MST 2011">Undo</menu_button>
+<menu_button time="Thu Feb 17 15:46:58 MST 2011">Undo</menu_button>
+<menu_button time="Thu Feb 17 15:46:58 MST 2011">Undo</menu_button>
+<menu_button time="Thu Feb 17 15:46:59 MST 2011">Undo</menu_button>
+<menu_button time="Thu Feb 17 15:46:59 MST 2011">Undo</menu_button>
+<menu_button time="Thu Feb 17 15:46:59 MST 2011">Undo</menu_button>
+<menu_button time="Thu Feb 17 15:46:59 MST 2011">Undo</menu_button>
+<menu_button time="Thu Feb 17 15:46:59 MST 2011">Undo</menu_button>
+<menu_button time="Thu Feb 17 15:47:00 MST 2011">Undo</menu_button>
+<menu_button time="Thu Feb 17 15:47:00 MST 2011">Undo</menu_button>
+<menu_button time="Thu Feb 17 15:47:01 MST 2011">Undo</menu_button>
+<menu_button time="Thu Feb 17 15:47:01 MST 2011">Undo</menu_button>
+<menu_button time="Thu Feb 17 15:47:01 MST 2011">Undo</menu_button>
+<menu_button time="Thu Feb 17 15:47:01 MST 2011">Undo</menu_button>
+<menu_button time="Thu Feb 17 15:47:01 MST 2011">Undo</menu_button>
+<menu_button time="Thu Feb 17 15:47:02 MST 2011">Undo</menu_button>
+<menu_button time="Thu Feb 17 15:47:02 MST 2011">Undo</menu_button>
+<menu_button time="Thu Feb 17 15:47:02 MST 2011">Undo</menu_button>
+<menu_button time="Thu Feb 17 15:47:02 MST 2011">Undo</menu_button>
+<menu_button time="Thu Feb 17 15:47:03 MST 2011">Undo</menu_button>
+<menu_button time="Thu Feb 17 15:47:03 MST 2011">Undo</menu_button>
+<menu_button time="Thu Feb 17 15:47:03 MST 2011">Undo</menu_button>
+<menu_button time="Thu Feb 17 15:47:04 MST 2011">Undo</menu_button>
+<menu_button time="Thu Feb 17 15:47:04 MST 2011">Undo</menu_button>
+<menu_button time="Thu Feb 17 15:47:04 MST 2011">Undo</menu_button>
+<menu_button time="Thu Feb 17 15:47:04 MST 2011">Undo</menu_button>
+<menu_button time="Thu Feb 17 15:47:04 MST 2011">Undo</menu_button>
+<menu_button time="Thu Feb 17 15:47:04 MST 2011">Undo</menu_button>
+<menu_button time="Thu Feb 17 15:47:04 MST 2011">Undo</menu_button>
+<menu_button time="Thu Feb 17 15:47:04 MST 2011">Undo</menu_button>
+<menu_button time="Thu Feb 17 15:47:04 MST 2011">Undo</menu_button>
+<menu_button time="Thu Feb 17 15:47:04 MST 2011">Undo</menu_button>
+<menu_button time="Thu Feb 17 15:47:04 MST 2011">Undo</menu_button>
+<menu_button time="Thu Feb 17 15:47:04 MST 2011">Undo</menu_button>
+<menu_button time="Thu Feb 17 15:47:05 MST 2011">Undo</menu_button>
+<menu_button time="Thu Feb 17 15:47:05 MST 2011">Undo</menu_button>
+<menu_button time="Thu Feb 17 15:47:05 MST 2011">Undo</menu_button>
+<menu_button time="Thu Feb 17 15:47:05 MST 2011">Undo</menu_button>
+<menu_button time="Thu Feb 17 15:47:05 MST 2011">Undo</menu_button>
+<menu_button time="Thu Feb 17 15:47:05 MST 2011">Undo</menu_button>
+<menu_button time="Thu Feb 17 15:47:05 MST 2011">Undo</menu_button>
+<menu_button time="Thu Feb 17 15:47:05 MST 2011">Undo</menu_button>
+<menu_button time="Thu Feb 17 15:47:05 MST 2011">Undo</menu_button>
+<menu_button time="Thu Feb 17 15:47:05 MST 2011">Undo</menu_button>
+<menu_button time="Thu Feb 17 15:47:05 MST 2011">Undo</menu_button>
+<menu_button time="Thu Feb 17 15:47:05 MST 2011">Undo</menu_button>
+<menu_button time="Thu Feb 17 15:47:05 MST 2011">Undo</menu_button>
+<menu_button time="Thu Feb 17 15:47:05 MST 2011">Undo</menu_button>
+<menu_button time="Thu Feb 17 15:47:06 MST 2011">Undo</menu_button>
+<menu_button time="Thu Feb 17 15:47:06 MST 2011">Undo</menu_button>
+<menu_button time="Thu Feb 17 15:47:06 MST 2011">Undo</menu_button>
+<menu_button time="Thu Feb 17 15:47:06 MST 2011">Undo</menu_button>
+<menu_button time="Thu Feb 17 15:47:06 MST 2011">Undo</menu_button>
+<menu_button time="Thu Feb 17 15:47:06 MST 2011">Undo</menu_button>
+<menu_button time="Thu Feb 17 15:47:06 MST 2011">Undo</menu_button>
+<menu_button time="Thu Feb 17 15:47:06 MST 2011">Undo</menu_button>
+<menu_button time="Thu Feb 17 15:47:06 MST 2011">Undo</menu_button>
+<menu_button time="Thu Feb 17 15:47:06 MST 2011">Undo</menu_button>
+<menu_button time="Thu Feb 17 15:47:06 MST 2011">Undo</menu_button>
+<menu_button time="Thu Feb 17 15:47:06 MST 2011">Undo</menu_button>
+<menu_button time="Thu Feb 17 15:47:06 MST 2011">Undo</menu_button>
+<menu_button time="Thu Feb 17 15:47:06 MST 2011">Undo</menu_button>
+<menu_button time="Thu Feb 17 15:47:07 MST 2011">Undo</menu_button>
+<menu_button time="Thu Feb 17 15:47:07 MST 2011">Undo</menu_button>
+<menu_button time="Thu Feb 17 15:47:08 MST 2011">Undo</menu_button>
+<menu_button time="Thu Feb 17 15:47:08 MST 2011">Undo</menu_button>
+<menu_button time="Thu Feb 17 15:47:09 MST 2011">Undo</menu_button>
+<menu_button time="Thu Feb 17 15:47:11 MST 2011">Redo</menu_button>
+<menu_button time="Thu Feb 17 15:47:13 MST 2011">Redo</menu_button>
+<menu_button time="Thu Feb 17 15:47:16 MST 2011">Save Program</menu_button>
+<file_saved time="Thu Feb 17 15:47:16 MST 2011">C:\Users\lehi\Desktop\CS100_lab5\curves.py</file_saved>
+</file_created>
+<menu_button time="Thu Feb 17 15:47:49 MST 2011">Save Program</menu_button>
+<file_saved time="Thu Feb 17 15:47:49 MST 2011">C:\Users\lehi\Desktop\CS100_lab5\curves.py</file_saved>
+</file_created>
+<menu_button time="Thu Feb 17 15:47:51 MST 2011">Load Program</menu_button>
+<menu_button time="Thu Feb 17 15:48:10 MST 2011">Undo</menu_button>
+<menu_button time="Thu Feb 17 15:48:10 MST 2011">Undo</menu_button>
+<menu_button time="Thu Feb 17 15:48:11 MST 2011">Undo</menu_button>
+<menu_button time="Thu Feb 17 15:48:11 MST 2011">Undo</menu_button>
+<menu_button time="Thu Feb 17 15:48:11 MST 2011">Undo</menu_button>
+<menu_button time="Thu Feb 17 15:48:12 MST 2011">Undo</menu_button>
+<menu_button time="Thu Feb 17 15:48:12 MST 2011">Undo</menu_button>
+<menu_button time="Thu Feb 17 15:48:12 MST 2011">Undo</menu_button>
+<menu_button time="Thu Feb 17 15:48:13 MST 2011">Undo</menu_button>
+<menu_button time="Thu Feb 17 15:48:13 MST 2011">Undo</menu_button>
+<menu_button time="Thu Feb 17 15:48:14 MST 2011">Undo</menu_button>
+<menu_button time="Thu Feb 17 15:48:14 MST 2011">Undo</menu_button>
+<menu_button time="Thu Feb 17 15:48:15 MST 2011">Undo</menu_button>
+<menu_button time="Thu Feb 17 15:48:15 MST 2011">Undo</menu_button>
+<menu_button time="Thu Feb 17 15:48:15 MST 2011">Undo</menu_button>
+<menu_button time="Thu Feb 17 15:48:16 MST 2011">Undo</menu_button>
+<menu_button time="Thu Feb 17 15:48:16 MST 2011">Undo</menu_button>
+<menu_button time="Thu Feb 17 15:48:16 MST 2011">Undo</menu_button>
+<menu_button time="Thu Feb 17 15:48:16 MST 2011">Undo</menu_button>
+<menu_button time="Thu Feb 17 15:48:18 MST 2011">Save Program</menu_button>
+<file_saved time="Thu Feb 17 15:48:18 MST 2011">C:\Users\lehi\Desktop\CS100_lab5\curves.py</file_saved>
+</file_created>
+<menu_button time="Thu Feb 17 15:48:23 MST 2011">Save Program</menu_button>
+<file_saved time="Thu Feb 17 15:48:23 MST 2011">C:\Users\lehi\Desktop\CS100_lab5\curves.py</file_saved>
+</file_created>
+<menu_button time="Thu Feb 17 15:48:25 MST 2011">Load Program</menu_button>
+<menu_button time="Thu Feb 17 15:49:07 MST 2011">Stop</menu_button>
+<menu_button time="Thu Feb 17 15:49:33 MST 2011">Save Program</menu_button>
+<file_saved time="Thu Feb 17 15:49:33 MST 2011">C:\Users\lehi\Desktop\CS100_lab5\curves.py</file_saved>
+</file_created>
+<menu_button time="Thu Feb 17 15:49:49 MST 2011">Save Program</menu_button>
+<file_saved time="Thu Feb 17 15:49:49 MST 2011">C:\Users\lehi\Desktop\CS100_lab5\curves.py</file_saved>
+</file_created>
+<menu_button time="Thu Feb 17 15:49:50 MST 2011">Load Program</menu_button>
+<command_run time="Thu Feb 17 15:50:08 MST 2011">curves(Penguins.jpg, 2, 4, 6, 8)></command_run>
+<command_run time="Thu Feb 17 15:50:21 MST 2011">curves("Penguins.jpg", 2, 4, 6, 8)></command_run>
+<menu_button time="Thu Feb 17 15:52:04 MST 2011">Save Program</menu_button>
+<file_saved time="Thu Feb 17 15:52:04 MST 2011">C:\Users\lehi\Desktop\CS100_lab5\curves.py</file_saved>
+</file_created>
+<menu_button time="Thu Feb 17 15:52:07 MST 2011">Load Program</menu_button>
+<menu_button time="Thu Feb 17 15:53:16 MST 2011">Save Program</menu_button>
+<file_saved time="Thu Feb 17 15:53:16 MST 2011">C:\Users\lehi\Desktop\CS100_lab5\curves.py</file_saved>
+</file_created>
+<menu_button time="Thu Feb 17 16:07:11 MST 2011">Save Program</menu_button>
+<file_saved time="Thu Feb 17 16:07:11 MST 2011">C:\Users\lehi\Desktop\CS100_lab5\curves.py</file_saved>
+</file_created>
+<menu_button time="Thu Feb 17 16:07:15 MST 2011">Save Program</menu_button>
+<file_saved time="Thu Feb 17 16:07:15 MST 2011">C:\Users\lehi\Desktop\CS100_lab5\curves.py</file_saved>
+</file_created>
+<menu_button time="Thu Feb 17 16:07:33 MST 2011">Save Program</menu_button>
+<file_saved time="Thu Feb 17 16:07:33 MST 2011">C:\Users\lehi\Desktop\CS100_lab5\curves.py</file_saved>
+</file_created>
+<menu_button time="Thu Feb 17 16:08:39 MST 2011">Save Program</menu_button>
+<file_saved time="Thu Feb 17 16:08:39 MST 2011">C:\Users\lehi\Desktop\CS100_lab5\curves.py</file_saved>
+</file_created>
