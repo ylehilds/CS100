@@ -1,0 +1,12 @@
+
+body {margin:0; padding:0; color:#000000; background:#a7a09a;}
+td {font-size:75%; padding:5px}
+td.bottomBorder {border-bottom:solid 2px}
+td.leftBorder {border-left:solid 2px}
+#header {font-size:150%; text-align:center; padding: 10px 10px; background:#D0D0D0;}
+#leftSide {padding: 20px 15px; width:430px; background:#9090C0; float:left;} 
+#pedigreeChart {padding: 20px 15px; width:650px; background:#C090C0;float:right} 
+#errorMessage {clear:both; background:#C0C090;}
+#wrapper {width:1140px; margin:0 auto; background:#1090C0;}
+textarea {vertical-align:top;}
+

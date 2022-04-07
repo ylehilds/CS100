@@ -1,0 +1,132 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+<title>My Family History</title>
+<link rel="stylesheet" type="text/css" href="mystyle.css" />
+</head>
+<body>
+<div id="wrapper">
+<div id="header">
+MyFamily History 
+</div>
+<div id="leftSide">
+<form name="family" action="http://students.cs.byu.edu/~lehistta/Server1/MFH.cgi">
+<b>People</b>
+<select name="listOfPeople">
+%listOfPeople%
+</select>
+<hr />
+<input type="submit" name="deleteSelectedPerson" value="Delete Selected Person">
+<hr />
+<input type="submit" name="addPerson" value="Add Person"> <b>New Person's Name</b> <input type="text" name="newName" value="%newName%" /><br />
+<hr />
+<pre>Child	<input type="text" value="%child%" />  <input type="button" name="child" value="Set Selected Person as Child    "><br /></pre>
+<pre>Mother	<input type="text" value="%mother%" />  <input type="button" name="mother" value="Set Selected Person as Mother"><br /></pre>
+<pre>Father	<input type="text" value="%father%" />  <input type="button" name="father" value="Set Selected Person as Father "><br /></pre>
+<input type="submit" name="addParents" value="Add Parents">
+<br />
+<br />
+</div>
+<div id="pedigreeChart">
+<input type="submit"  name="showPedigreeChart" value="Show Pedigree Chart For Selected Person">
+<table style="border-collapse:collapse; padding:5px;">
+	<tr>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td class="bottomBorder">%fff%</td>
+	</tr>
+	<tr>
+		<td></td>
+		<td></td>
+		<td class="bottomBorder">%ff%</td>
+		<td class="leftBorder"></td>
+	</tr>
+	<tr>
+		<td></td>
+		<td></td>
+		<td class="leftBorder"></td>
+		<td class="bottomBorder leftBorder">%ffm%</td>
+	</tr>
+	<tr>
+		<td></td>
+		<td class="bottomBorder">%f%</td>
+		<td class="leftBorder"></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td></td>
+		<td class="leftBorder"></td>
+		<td class="leftBorder"></td>
+		<td class="bottomBorder">%fmf%</td>
+	</tr>
+	<tr>
+		<td></td>
+		<td class="leftBorder"></td>
+		<td class="bottomBorder leftBorder">%fm%</td>
+		<td class="leftBorder"></td>
+	</tr>
+	<tr>
+		<td></td>
+		<td class="leftBorder"></td>
+		<td></td>
+		<td class="bottomBorder leftBorder">%fmm%</td>
+	</tr>
+	<tr>
+		<td class="bottomBorder">%root%</td>
+		<td class="leftBorder"></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td></td>
+		<td class="leftBorder"></td>
+		<td></td>
+		<td class="bottomBorder">%mff%</td>
+	</tr>
+	<tr>
+		<td></td>
+		<td class="leftBorder"></td>
+		<td class="bottomBorder">%mf%</td>
+		<td class="leftBorder"></td>
+	</tr>
+	<tr>
+		<td></td>
+		<td class="leftBorder"></td>
+		<td class="leftBorder"></td>
+		<td class="bottomBorder leftBorder">%mfm%</td>
+	</tr>
+	<tr>
+		<td></td>
+		<td class="bottomBorder leftBorder">%m%</td>
+		<td class="leftBorder"></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td></td>
+		<td></td>
+		<td class="leftBorder"></td>
+		<td class="bottomBorder">%mmf%</td>
+	</tr>
+	<tr>
+		<td></td>
+		<td></td>
+		<td class="bottomBorder leftBorder">%mm%</td>
+		<td class="leftBorder"></td>
+	</tr>
+	<tr>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td class="bottomBorder leftBorder">%mmm%</td>
+	</tr>
+</table>
+</div>
+<div id="errorMessage">
+<b>Error Message</b> <textarea name="errorMessageArea">%errorMessageArea%</textarea>
+</div>
+
+</form>
+</div>
+</body>
+</html>
